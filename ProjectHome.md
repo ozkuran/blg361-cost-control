@@ -1,0 +1,1 @@
+Cost Control Software developed using Java and PostgreSQL as Istanbul Technical University BGL 361 Database Management Systems Fall 2012-2013 Term Project
